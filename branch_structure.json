@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "coding_challenge_by_fahad",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "coding_challenge_by_fahad": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "coding_challenge_by_fahad",
+    "origin"
+  ]
+}
